@@ -1,3 +1,8 @@
+/**
+ * @author Jothi Prakash V
+ * This package contains the controller class
+ *
+ */
 package com.wipro.controller;
 
 import java.util.Map;
@@ -8,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * @author JOE
+ * @author Jothi Prakash V
  *	This class defines the controller for the project
  */
 @Controller

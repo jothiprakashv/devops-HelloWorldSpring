@@ -1,7 +1,12 @@
+/**
+ * @author Jothi Prakash V
+ * This package contains the controller class
+ *
+ */
 package com.wipro.controller;
 
 /**
- * @author JOE
+ * @author Jothi Prakash V
  * This is a bean class
  *
  */
